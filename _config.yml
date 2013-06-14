@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://enrichclub.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Enrich Club
+subtitle: We read, We share
+author: Enrich Club
 simple_search: http://google.com/search
 description:
 
@@ -69,7 +69,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: enrichclub
 twitter_tweet_button: true
 
 # Google +1
@@ -97,4 +97,4 @@ disqus_show_comment_count: false
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
