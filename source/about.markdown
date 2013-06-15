@@ -16,4 +16,6 @@ If you want to join us, just send me a email.
 
 Email: enrichclub@yeah.net
 
+Twitter: <a href="http://www.twitter.com/EnrichClub">@enrichclub</a>
+
 Weibo: <a href="http://www.weibo.com/enrichclub">@enrichclub</a>
