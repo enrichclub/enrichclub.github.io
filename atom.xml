@@ -4,7 +4,7 @@
 	<title><![CDATA[Enrich Club]]></title>
 	<link href="http://enrichclub.github.io/atom.xml" rel="self"/>
 	<link href="http://enrichclub.github.io/"/>
-	<updated>2013-06-16T01:22:01+08:00</updated>
+	<updated>2013-06-17T00:39:22+08:00</updated>
 	<id>http://enrichclub.github.io/</id>
 	<author>
 		<name><![CDATA[Enrich Club]]></name>
@@ -12,6 +12,24 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Einstein Learning]]></title>
+		
+		<link href="http://enrichclub.github.io/blog/2013/06/17/learning/"/>
+		<updated>2013-06-17T00:34:00+08:00</updated>
+		<id>http://enrichclub.github.io/blog/2013/06/17/learning</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p><img src="http://farm3.staticflickr.com/2827/9057436433_575d781eaa.jpg" width="500" height="470" title="Einstein Learning" ></p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
