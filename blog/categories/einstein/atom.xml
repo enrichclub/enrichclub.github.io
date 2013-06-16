@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Einstein | Enrich Club]]></title>
+  <link href="http://enrichclub.github.io/blog/categories/einstein/atom.xml" rel="self"/>
+  <link href="http://enrichclub.github.io/"/>
+  <updated>2013-06-17T00:45:25+08:00</updated>
+  <id>http://enrichclub.github.io/</id>
+  <author>
+    <name><![CDATA[Enrich Club]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Einstein Learning]]></title>
+    <link href="http://enrichclub.github.io/blog/2013/06/17/learning/"/>
+    <updated>2013-06-17T00:34:00+08:00</updated>
+    <id>http://enrichclub.github.io/blog/2013/06/17/learning</id>
+    <content type="html"><![CDATA[<p><img class="<a" src="href="http://farm3.staticflickr.com/2827/9057436433_575d781eaa.jpg">http://farm3.staticflickr.com/2827/9057436433_575d781eaa.jpg</a>" width="500" height="470" title="Einstein Learning" ></p>
+]]></content>
+  </entry>
+  
+</feed>
