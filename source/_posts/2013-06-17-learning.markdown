@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Einstein Learning"
+date: 2013-06-17 00:34
+comments: true
+categories: Einstein
+---
+{% img http://farm3.staticflickr.com/2827/9057436433_575d781eaa.jpg 500 470 Einstein Learning %}
